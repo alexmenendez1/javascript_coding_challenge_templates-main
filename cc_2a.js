@@ -1,4 +1,4 @@
-// Coding Challenge 00
+// Coding Challenge 2a
 
 // Code goes here
 let productName = 'Product X'
@@ -14,5 +14,6 @@ let profitPerUnit = finalPriceWithTax - costPerUnit
 let breakEvenUnits = Math.ceil (fixedMonthlyCosts / profitPerUnit)
 let isProfitablePerUnit = profitPerUnit > 0
 
-console.log("Product is `productName`")
+console.log("Your Product is/n Your discounted price is/n Your final price with tax is/n Your profit per unit is /n Your breakeven units is/n This item is)
+
 
